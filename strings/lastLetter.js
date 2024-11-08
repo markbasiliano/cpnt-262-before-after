@@ -11,3 +11,5 @@ console.log(bro, bro.length);
 let broski = bro[7];
 
 console.log(broski);
+
+// Indicates the last letter of the string.

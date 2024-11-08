@@ -11,3 +11,5 @@ console.log(num, typeof num);
 let numStr = num.toString();
 
 console.log(numStr, typeof numStr);
+
+// Converts num to string.

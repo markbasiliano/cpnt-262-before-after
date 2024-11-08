@@ -11,3 +11,5 @@ console.log(bro);
 let broSub = bro.substring(1,6);
 
 console.log(broSub);
+
+// Dictates a starting point and an end point of the string.

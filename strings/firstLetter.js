@@ -11,3 +11,5 @@ console.log(bro);
 let broski = bro[0];
 
 console.log(broski);
+
+// Indicates the first letter of the string.

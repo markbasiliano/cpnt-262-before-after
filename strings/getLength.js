@@ -11,3 +11,5 @@ console.log(bro);
 let broski = bro.length;
 
 console.log(broski);
+
+// Retrieves the number of characters the string has.

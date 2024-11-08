@@ -11,3 +11,5 @@ console.log(num);
 let numFixed = num.toFixed(2);
 
 console.log(numFixed);
+
+// Makes num have only 2 trailing digits after decimal.
